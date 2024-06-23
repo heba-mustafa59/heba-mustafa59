@@ -19,7 +19,7 @@
 <hr/>
 
 #### Programming Languages 🖥️
-![C++](https://img.shields.io/badge/C%2B%2B-004080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <hr/>
 <div align="center">
