@@ -1,12 +1,12 @@
-[![free palestine](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)](https://techforpalestine.org/learn-more)
-<hr/>
+
 <div align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+Heba-Mustafa+Jalil.....">
 </div>
-
-🎓  Palestine Technical University – Kadoorie <br />
-📧 Reach me on: [**Email**](mailto://hebajalil12@gmail.com) <br />
-💬  sev yaşa şükret
+<h3 align="center">Computer Systems Engineering</h3>
+✩ CSE of the future 
+✩  Palestine Technical University – Kadoorie <br />
+✩ Reach me on: [**Email**](mailto://hebajalil12@gmail.com) <br />
+✩  sev yaşa şükret
 
 <hr/>
 
