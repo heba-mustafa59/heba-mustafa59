@@ -28,9 +28,6 @@
 	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Sparkling+yildiz+.....">
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/heba-mustafa59/heba-mustafa59/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/heba-mustafa59/heba-mustafa59/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-![]((https://github.com/heba-mustafa59))
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
