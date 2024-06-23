@@ -1,11 +1,11 @@
 
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hello👋,+It's+Heba-Mustafa+☆☆☆">
+	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hello👋,+It's+Heba-Mustafa+☆☆☆☆☆">
 </div>
 <h3 align="center">𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰</h3>
 ✩ CSE of the future 
 ✩  Palestine Technical University – Kadoorie <br />
-✩ Reach me on:**hebajalil12@gmail.com** <br />
+✩ Reach me on: [**Email**](mailto://hebajalil12@gmail.com) <br />
 ✩  sev yaşa şükret
 
 <hr/>
