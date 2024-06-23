@@ -32,16 +32,3 @@
 
 <hr/>
 
-### Connect with me 📲
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-mustafa-☆-b02472315)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/hebajalil12)
-
-
-<hr/>
-
-#### Programming Languages 🖥️
-![C++](https://img.shields.io/badge/C%2B%2B-004080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
