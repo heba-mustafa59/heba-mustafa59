@@ -25,7 +25,7 @@
 #### Programming Languages ☆
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<hr/>
+<hr/>## 🏆 Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=heba-mustafa59&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=heba-mustafa59&theme=neon" alt="GitHub Streak" /></a>
 <div align="center">
