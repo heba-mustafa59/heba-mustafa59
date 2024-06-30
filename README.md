@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <div align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi👋🏻,+It's+𝐻𝑒𝑏𝑎-𝑀𝑢𝑠𝑡𝑎𝑓𝑎+☆☆☆☆☆">
 </div>
