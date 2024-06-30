@@ -5,10 +5,11 @@
 </div>
 <h3 align="center">𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰</h3>
 </div>
-✩ CSE of the future <br />
-✩  Reach me on: [**Email**](mailto://hebajalil12@gmail.com) <br />
-✩   Palestine Technical University – Kadoorie <br />
-✩  sev yaşa şükret
+✩ 𝐂𝐒𝐄 𝐨𝐟 𝐭𝐡𝐞 𝐟𝐮𝐭𝐮𝐫𝐞 <br />
+
+✩  𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐨𝐧: [**Email**](mailto://hebajalil12@gmail.com) <br />
+✩   𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 – 𝐊𝐚𝐝𝐨𝐨𝐫𝐢𝐞 <br />
+✩  𝐬𝐞𝐯 𝐲𝐚𝐬̧𝐚 𝐬̧𝐮̈𝐤𝐫𝐞𝐭
 
 <hr/>
 
