@@ -1,7 +1,7 @@
 
 </div>
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi👋🏻,+It's+𝐻𝑒𝑏𝑎-𝑀𝑢𝑠𝑡𝑎𝑓𝑎+☆☆☆☆☆">
+	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+𝐇𝐢👋🏻,+𝐈𝐭'𝐬+𝐇𝐞𝐛𝐚 𝐌𝐮𝐬𝐭𝐚𝐟𝐚+☆☆☆☆☆">
 </div>
 <h3 align="center">𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰</h3>
 </div>
@@ -13,7 +13,7 @@
 
 <hr/>
 
-### Connect with Heba ☆
+### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐇𝐞𝐛𝐚 ☆
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-mustafa-☆-b02472315)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/hebajalil12)
@@ -21,7 +21,7 @@
 
 <hr/>
 
-#### Programming Languages ☆
+#### 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 ☆
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -33,7 +33,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=heba-mustafa59&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Sparkling+yildiz+.....">
+	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+𝐒𝐩𝐚𝐫𝐤𝐥𝐢𝐧𝐠+𝐲𝐢𝐥𝐝𝐢𝐳+.....">
 
 </div>
 
