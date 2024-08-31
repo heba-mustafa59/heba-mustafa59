@@ -10,7 +10,6 @@
 ✩  𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐨𝐧: [**Email**](mailto://hebajalil12@gmail.com) <br />
 ✩   𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 – 𝐊𝐚𝐝𝐨𝐨𝐫𝐢𝐞 <br />
 ✩  غَرِيقٌ بَينَ أفلَاكِ الحَنايَا..
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <hr/>
 
