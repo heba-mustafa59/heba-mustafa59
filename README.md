@@ -13,7 +13,7 @@
 
 <hr/>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry)
 
  <hr/>
 
