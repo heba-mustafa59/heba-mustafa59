@@ -11,7 +11,7 @@
 ✩   𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 – 𝐊𝐚𝐝𝐨𝐨𝐫𝐢𝐞 <br />
 ✩  غَرِيقٌ بَينَ أفلَاكِ الحَنايَا..
 <br />
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=buefy)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite)
 
 <hr/>
 
