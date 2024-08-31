@@ -12,7 +12,6 @@
 ✩  غَرِيقٌ بَينَ أفلَاكِ الحَنايَا..
 
 <hr/>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐇𝐞𝐛𝐚 ☆
 
