@@ -13,10 +13,6 @@
 
 <hr/>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry)
-
- <hr/>
-
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐇𝐞𝐛𝐚 ☆
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-jalil5-35518231b)
