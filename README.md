@@ -9,7 +9,7 @@
 
 ✩  𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐨𝐧: [**Email**](mailto://hebajalil12@gmail.com) <br />
 ✩   𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 – 𝐊𝐚𝐝𝐨𝐨𝐫𝐢𝐞 <br />
-✩  غَرِيقٌ بَينَ أفلَاكِ الحَنايَا..
+✩  Ça passera, belle étoile 
 
 <hr/>
 
@@ -29,6 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mustafa59&hide_progress=false&layout=compact) <br>
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=heba-mustafa59&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Heba" style="margin-left:2px"/> <br>
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=heba-mustafa59&theme=tokyonight&border_radius=5" alt="GitHub Streak" /></a>
 
 ![](https://github-profile-trophy.vercel.app/?username=heba-mustafa59&theme=dark&no-frame=true&no-bg=false&margin-w=4)
