@@ -30,7 +30,7 @@
 <hr/>
 ☆ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 ☆
 
-  AutoCAD <img src="https://github.com/user-attachments/assets/4014f086-e0d4-46b6-9c04-990b08c93687" width="20" height="20"> / Office 365 Administration <img src="https://github.com/user-attachments/assets/516f44a3-e35b-4bc9-a6e8-7a3dfe6be484" width="20" height="20"> 
+ 𝐀𝐮𝐭𝐨𝐂𝐀𝐃 <img src="https://github.com/user-attachments/assets/4014f086-e0d4-46b6-9c04-990b08c93687" width="20" height="20"> / 𝐎𝐟𝐟𝐢𝐜𝐞 𝟑𝟔𝟓 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 <img src="https://github.com/user-attachments/assets/516f44a3-e35b-4bc9-a6e8-7a3dfe6be484" width="20" height="20"> 
 
 <hr/>
 
