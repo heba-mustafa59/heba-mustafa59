@@ -13,7 +13,7 @@
 
 <hr/>
 
-#### 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐬𝐤𝐢𝐥𝐥𝐬 ☆
+☆ 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐬𝐤𝐢𝐥𝐥𝐬 ☆
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -23,11 +23,15 @@
 
 <hr/>
 
-### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐇𝐞𝐛𝐚 ☆
+☆ 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐇𝐞𝐛𝐚 ☆
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-mustafa-35518231b/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Yildiz59)
 
-
+<hr/>
+☆ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 ☆
+| Category         | Tools                                               |
+|------------------|-----------------------------------------------------|
+| Development      | AutoCAD <img src="https://github.com/user-attachments/assets/4014f086-e0d4-46b6-9c04-990b08c93687" width="20" height="20"> /Office 365 Administration <img src="https://github.com/user-attachments/assets/516f44a3-e35b-4bc9-a6e8-7a3dfe6be484" width="20" height="20"> |
 
 <hr/>
 
