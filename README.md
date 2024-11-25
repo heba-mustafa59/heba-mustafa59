@@ -2,9 +2,9 @@
     <img width=300 src="./assets/main.gif"/>    
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+HEBA JALIL !" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+I'm+HEBA JALIL 🪄 !" alt="Typing SVG" /></a>
 	
-</div>
+
 <div align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+𝐇𝐢👋🏻,+𝐈𝐭'𝐬+𝑯𝒆𝒃𝒂-𝐌𝐮𝐬𝐭𝐚𝐟𝐚+☆☆☆☆☆">
 </div>
