@@ -1,11 +1,11 @@
 
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+I'm+HEBA JALIL 🪄 !" alt="Typing SVG" /></a>
-	
+    
 
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+𝐇𝐢 🪄,+𝐈𝐭'𝐬+𝑯𝒆𝒃𝒂-𝐌𝐮𝐬𝐭𝐚𝐟𝐚+☆☆☆☆☆">
+	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+𝐇𝐢+ 🪄,+𝐈𝐭'𝐬+𝑯𝒆𝒃𝒂-𝐌𝐮𝐬𝐭𝐚𝐟𝐚+☆☆☆☆☆">
 </div>
+
 <h3 align="center">𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰</h3>
 </div>
 ✩ 𝐂𝐒𝐄 𝐨𝐟 𝐭𝐡𝐞 𝐟𝐮𝐭𝐮𝐫𝐞 <br />
