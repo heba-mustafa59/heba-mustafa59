@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: rgb(251, 224, 184);">
 	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+𝑯𝒆𝒃𝒂-𝐌𝐮𝐬𝐭𝐚𝐟𝐚+☆☆☆☆☆+.....">
 </div>
 
