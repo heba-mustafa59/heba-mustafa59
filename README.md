@@ -31,11 +31,8 @@
   <img width="12" />
 </div>
 <hr/>
-
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-mustafa-35518231b/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Yildiz59)
-</div>
 <hr/>
 
 
