@@ -7,6 +7,12 @@
 ✩ 𝐂𝐒𝐄 𝐨𝐟 𝐭𝐡𝐞 𝐟𝐮𝐭𝐮𝐫𝐞 <br />
 ✩  𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐨𝐧 <a href="mailto:hebajalil12@gmail.com">Email</a> <br />
 ✩  𝑲𝒆𝒆𝒑 𝒚𝒐𝒖𝒓 𝒆𝒚𝒆𝒔 𝒐𝒏 𝒕𝒉𝒆 𝒔𝒕𝒂𝒓𝒔 </div>
+<div align="center">
+	
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-mustafa-35518231b/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Yildiz59)
+
+</div>
 
 <hr>
 <div align="center">
@@ -31,13 +37,6 @@
   <img width="12" />
 </div>
 
-
-<div align="center">
-	
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-mustafa-35518231b/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Yildiz59)
-
-</div>
  
 
 <div align="center">
