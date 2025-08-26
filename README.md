@@ -31,6 +31,7 @@
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo" />
   <img width="12" />
+	   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MySQL/MySQL-plain-wordmark.svg" height="60" alt="MySQL logo"  />
 </div>
 <hr/>
 
