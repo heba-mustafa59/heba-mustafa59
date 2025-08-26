@@ -8,7 +8,7 @@
 ✩  𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐨𝐧 <a href="mailto:hebajalil12@gmail.com">Email</a> <br />
 ✩  𝑲𝒆𝒆𝒑 𝒚𝒐𝒖𝒓 𝒆𝒚𝒆𝒔 𝒐𝒏 𝒕𝒉𝒆 𝒔𝒕𝒂𝒓𝒔 </div>
 
-
+<hr>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
