@@ -51,7 +51,8 @@
 </div>
   
 <hr/>
-
+<div align="center">
+	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mustafa59&hide_progress=false&layout=compact) <br>
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=heba-mustafa59&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Heba" style="margin-left:2px"/> <br>
 
@@ -61,7 +62,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=heba-mustafa59&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 <div align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+𝐒𝐩𝐚𝐫𝐤𝐥𝐢𝐧𝐠+𝐲𝐢𝐥𝐝𝐢𝐳+.....">
-
+</div>
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
