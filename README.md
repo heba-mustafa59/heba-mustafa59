@@ -30,10 +30,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo" />
   <img width="12" />
 </div>
+
 <hr/>
+<div align="center">
+	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-mustafa-35518231b/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Yildiz59)
-<hr/>
+
+</div>
+ <hr/>
+
 
 
  𝐀𝐮𝐭𝐨𝐂𝐀𝐃 <img src="https://github.com/user-attachments/assets/4014f086-e0d4-46b6-9c04-990b08c93687" width="20" height="20"> / 𝐎𝐟𝐟𝐢𝐜𝐞 𝟑𝟔𝟓 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 <img src="https://github.com/user-attachments/assets/516f44a3-e35b-4bc9-a6e8-7a3dfe6be484" width="20" height="20"> 
