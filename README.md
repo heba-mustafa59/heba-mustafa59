@@ -12,8 +12,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
  
-
-<h3 align="center">𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰</h3>
 <div align="center" >
 ✩ 𝐂𝐒𝐄 𝐨𝐟 𝐭𝐡𝐞 𝐟𝐮𝐭𝐮𝐫𝐞 <br />
 ✩  𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐨𝐧 <a href="mailto:hebajalil12@gmail.com">Email</a> <br />
