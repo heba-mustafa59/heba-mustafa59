@@ -53,7 +53,13 @@
   </a> 
 	 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="60" height="60" /></a>  
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-  
+<div>
+	
+![excel.svg](png/256/excel.png)
+![outlook.svg](png/256/outlook.png)
+![powerpoint.svg](png/256/powerpoint.png)
+![teams.svg](png/256/teams.png)
+![word.svg](png/256/word.png)
 </div>
 
  
