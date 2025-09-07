@@ -1,4 +1,3 @@
-<div align="center" style="background-color: rgb(251, 224, 184);">
 
  <!-- Typing Animation -->
 <p align="center">
