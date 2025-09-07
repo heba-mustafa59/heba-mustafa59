@@ -52,8 +52,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
   </a> 
 	 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="60" height="60" /></a>  
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-<div>
+ 
+	 
+[microsoft.com](https://microsoft.com)
+	 <div>
 	
 ![excel.svg](png/256/excel.png)
 ![outlook.svg](png/256/outlook.png)
