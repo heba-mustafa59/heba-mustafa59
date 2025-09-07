@@ -1,5 +1,19 @@
 <div align="center" style="background-color: rgb(251, 224, 184);">
-	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+𝑯𝒆𝒃𝒂-𝐌𝐮𝐬𝐭𝐚𝐟𝐚+☆☆☆☆☆+.....">
+
+ <!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/tubakhxn">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Computer%20Systems%20Engineering;Problem%20Solver;Heba%20Mustafa&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+  </a>
+</p>
+
+<!-- Animated Gif -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+𝑯𝒆𝒃𝒂-𝐌𝐮𝐬𝐭𝐚𝐟𝐚+☆☆☆☆☆+.....">
 </div>
 
 <h3 align="center">𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰</h3>
