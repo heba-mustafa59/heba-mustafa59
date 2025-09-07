@@ -11,10 +11,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
-
-
-<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+𝑯𝒆𝒃𝒂-𝐌𝐮𝐬𝐭𝐚𝐟𝐚+☆☆☆☆☆+.....">
-</div>
+ 
 
 <h3 align="center">𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰</h3>
 <div align="center" >
@@ -28,7 +25,11 @@
 
 </div>
 
-<hr>
+<!-- Animated Gif -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
@@ -63,7 +64,11 @@
  𝐀𝐮𝐭𝐨𝐂𝐀𝐃 <img src="https://github.com/user-attachments/assets/4014f086-e0d4-46b6-9c04-990b08c93687" width="20" height="20"> / 𝐎𝐟𝐟𝐢𝐜𝐞 𝟑𝟔𝟓 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 <img src="https://github.com/user-attachments/assets/516f44a3-e35b-4bc9-a6e8-7a3dfe6be484" width="20" height="20"> 
 </div>
   
- <hr>
+<!-- Animated Gif -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
+
 <div align="center">
 	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mustafa59&hide_progress=false&layout=compact) <br>
