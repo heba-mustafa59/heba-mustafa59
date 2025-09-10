@@ -17,7 +17,7 @@
 ✩  𝑲𝒆𝒆𝒑 𝒚𝒐𝒖𝒓 𝒆𝒚𝒆𝒔 𝒐𝒏 𝒕𝒉𝒆 𝒔𝒕𝒂𝒓𝒔 </div> <br/>
 <div align="center">
 	
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E2%81%A6%E2%81%A6%E2%81%A6%E2%98%86-heba-mustafa%E2%81%A6-%E2%98%86-35518231b/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E2%81%A6%E2%81%A6%E2%81%A6%E2%98%86-heba-mustafa%E2%81%A6-%E2%98%86-35518231b/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Yildiz59)
 
 </div>
